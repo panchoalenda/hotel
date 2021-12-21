@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/leer_Servicio.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/logica/Controladora.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/modCliente.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/servlet/SvConsultarEmpleado.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/servlet/SvCliente.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/leer_Empleados.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/servlet/SvModificaCliente.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/empleado.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/persistencia/ControladoraPersistencia.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/cliente.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/index.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/servlet/SvEliminarEmpleado.java</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/web/leer_Cliente.jsp</file>
+            <file>file:/C:/Users/FAMILIA/Documents/NetBeansProjects/hotelAlenda/src/java/servlet/SvEliminaCliente.java</file>
+        </group>
+    </open-files>
+</project-private>
